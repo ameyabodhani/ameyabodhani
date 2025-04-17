@@ -28,9 +28,7 @@ I'm a passionate Full Stack Developer with expertise in Java and enterprise appl
 
 ### 🗄️ **Database**  
 - 🐬 **MySQL**
-- 🐘 **PostgreSQL**
-- 🔶 **Oracle**
-- 📊 **Redis**
+- 🐘 **MongoDB**
 
 ### 🛠️ **Tools & Platforms**  
 - 🐱‍💻 **Apache Tomcat**  
@@ -47,17 +45,13 @@ I'm a passionate Full Stack Developer with expertise in Java and enterprise appl
 
 ### WAMIS (Works and Accounts Management Information System)
 An e-governance project for automating public works billing and accounts processes, serving government departments.
-- **Technologies**: Java, Spring Boot, MySQL
-- [View Project](https://github.com/ameyabodhani/wamis)
+- **Technologies**: Java, Spring Boot, MySQL, Jasper Reports
+- [View Project](https://wamis-odisha.gov.in/wamis/login.do)
 
 ### Enterprise Java Applications
-Building scalable enterprise applications with modular architecture, secure authentication, and reporting functionality.
-- **Technologies**: Java, Hibernate, JSP
-
-### Cloud Infrastructure Setup
-Designed and implemented scalable cloud infrastructure for enterprise applications with automation and monitoring.
-- **Technologies**: AWS, Docker, Terraform
-
+ A robust, cloud‑ready management system tailored for schools in Eastern Maharashtra, empowering teachers and administrative staff with seamless tools for works coordination, financial management, and real‑time reporting.
+- **Technologies**: Java, Spring Boot, Angular
+- [View Website}(https://dnyandeep.azurewebsites.net/).
 ---
 
 ## 🎬 Other Skills  
