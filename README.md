@@ -51,7 +51,7 @@ An e-governance project for automating public works billing and accounts process
 ### Enterprise Java Applications
  A robust, cloud‑ready management system tailored for schools in Eastern Maharashtra, empowering teachers and administrative staff with seamless tools for works coordination, financial management, and real‑time reporting.
 - **Technologies**: Java, Spring Boot, Angular
-- [View Website}(https://dnyandeep.azurewebsites.net/).
+- [View Website](https://dnyandeep.azurewebsites.net/).
 ---
 
 ## 🎬 Other Skills  
