@@ -1,50 +1,88 @@
-# Hi, I'm Ameya! 👋  
+# Hi, I'm Ameya Bodhani! 👋  
 
-🚀 **Full Stack Developer | Freelancer | Video Editor**  
+🚀 **Full Stack Developer | Java Engineer | Video Editor**  
 🌍 **Based in Pune, Maharashtra**  
+💼 **Working at Centre for Development of Advanced Computing (CDAC)**, Pune  
+✨ **Open to new Java & Software Engineering opportunities**
 
-💼 **Working at**:  
-**Centre for Development of Advanced Computing (CDAC)**, Pune  
-📌 **Project**: WAMIS (Public Works Management System)  
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with expertise in Java and enterprise applications. At CDAC, I contribute to the eGovernance group, building impactful solutions that improve government service delivery through technology. I'm currently looking for new challenges in Java and Software Engineering.
 
 ---
 
 ## 💻 Tech Stack  
+
 ### 🌐 **Frontend**  
 - 🖥️ **JSP**  
-- 📊 **Jasper Reports**  
+- 📊 **Jasper Reports**
+- 🔍 **Thymeleaf**
 
 ### 🏗️ **Backend**  
-- ☕ **Java 8**  
-- 🔧 **Struts Framework**  
+- ☕ **Java**  
+- 🔧 **Spring Boot**
+- 📦 **Hibernate ORM**
+- 🛡️ **Struts Framework**
+
+### 🗄️ **Database**  
+- 🐬 **MySQL**
+- 🐘 **PostgreSQL**
+- 🔶 **Oracle**
+- 📊 **Redis**
 
 ### 🛠️ **Tools & Platforms**  
 - 🐱‍💻 **Apache Tomcat**  
 - ☁️ **AWS**  
-- 🐧 **Linux**  
+- 🐧 **Linux**
+- 🐳 **Docker**
+- 🏗️ **Terraform**
+- 📊 **Maven**
+- 🔄 **Git**
 
-### 🗄️ **Database**  
-- 🐬 **MySQL 8**  
+---
+
+## 🚀 Projects
+
+### WAMIS (Works and Accounts Management Information System)
+An e-governance project for automating public works billing and accounts processes, serving government departments.
+- **Technologies**: Java, Spring Boot, MySQL
+- [View Project](https://github.com/ameyabodhani/wamis)
+
+### Enterprise Java Applications
+Building scalable enterprise applications with modular architecture, secure authentication, and reporting functionality.
+- **Technologies**: Java, Hibernate, JSP
+
+### Cloud Infrastructure Setup
+Designed and implemented scalable cloud infrastructure for enterprise applications with automation and monitoring.
+- **Technologies**: AWS, Docker, Terraform
 
 ---
 
 ## 🎬 Other Skills  
-- 🎥 Experienced **Video Editor** (Adobe Premiere Pro)  
-
-💡 I’m currently working at **CDAC Pune**, building robust solutions for impactful projects.  
-👀 I’m open to new opportunities in both tech and creative fields.  
+- 🎥 Professional **Video Editing** (Adobe Premiere Pro)
+- 🎬 **Content Creation** for various platforms
+- 📊 Data Visualization
 
 ---
 
-## 📫 Let’s Connect and Collaborate!  
+## 📫 Let's Connect and Collaborate!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ameyabodhani-blue?logo=linkedin)](https://www.linkedin.com/in/ameyabodhani/)  
+[![GitHub](https://img.shields.io/badge/GitHub-ameyabodhani-black?logo=github)](https://github.com/ameyabodhani)
 [![Email](https://img.shields.io/badge/Email-ameyabodhani175@gmail.com-red?logo=gmail)](mailto:ameyabodhani175@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-green)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ameya.dev-green)](https://ameya.dev)
 
 ---
 
 ### 📈 GitHub Stats  
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameya&show_icons=true&theme=radical)  
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyabodhani&show_icons=true&theme=radical)  
 
 ### 🏆 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameya&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyabodhani&layout=compact&theme=radical)
+
+---
+
+### 🔍 Looking for a skilled Java Developer?
+I'm currently available for new opportunities in Java and Software Engineering! Let's discuss how my skills can benefit your team or project.
